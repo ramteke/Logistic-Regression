@@ -12,7 +12,7 @@ Logistic regression hypothesis is,  hθ(x) = g(θT x)
 
 where g is sigmoid function, i.e. g(z) = 1 / ( 1 + e ^−z)
 
-For large positive values of x, the sigmoid should be close to 1, 
+For large positive values of x, the sigmoid should be close to 1, <br>
 while for large negative values, the sigmoid should be close to 0. 
 
     octave:20> sigmoid(0)
@@ -22,5 +22,9 @@ while for large negative values, the sigmoid should be close to 0.
     octave:22>
 
 
+
+
+
+<br><br>
 
 Reference: https://www.coursera.org/learn/machine-learning
