@@ -22,8 +22,9 @@ while for large negative values, the sigmoid should be close to 0.
     octave:22>
 
 
-<br><br>
+<img src="CostFunction.png" height=250/>
 
-<img src="CostFunction.png" height=200/>
+
+
 
 Reference: https://www.coursera.org/learn/machine-learning
